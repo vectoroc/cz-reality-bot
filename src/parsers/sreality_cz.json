@@ -1,0 +1,876 @@
+{
+  "meta_description": "7 realit v nab\u00eddce pron\u00e1jem byt\u016f Praha, ulice \u017ditn\u00e1 a okol\u00ed 5\u00a0km s po\u017eadavky: 2+kk, 2+1, od\u00a010\u00a0000\u00a0K\u010d do\u00a014\u00a0000\u00a0K\u010d, Ano, \u010c\u00e1ste\u010dn\u011b, plocha od\u00a045\u00a0m\u00b2, den. Vyberte si novou nemovitost na sreality.cz s hled\u00e1n\u00edm na map\u011b a velk\u00fdmi n\u00e1hledy fotografi\u00ed nab\u00edzen\u00fdch byt\u016f.",
+  "result_size": 7,
+  "_embedded": {
+    "estates": [
+      {
+        "labelsReleased": [
+          [
+            "new_building",
+            "brick",
+            "elevator"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Novostavba",
+          "Cihlov\u00e1",
+          "V\u00fdtah"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "new_building",
+            "personal",
+            "brick",
+            "elevator",
+            "garage",
+            "furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 4,
+          "category_type_cb": 2,
+          "locality": "praha-zizkov-jeseniova"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/281465180",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/281465180",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Jeseniova, Praha 3 - \u017di\u017ekov",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_G_L/Xl1Btpz.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_G_L/Xl1Btpz.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/0?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/281465180"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_G_L/Xl1Btpz.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_G_L/ifbBtp0.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_G_L/4vBBtp1.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_G_L/Xl1Btpz.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 281465180,
+        "attractive_offer": 0,
+        "price": 11000,
+        "price_czk": {
+          "value_raw": 11000,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+kk 45\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.086308,
+          "lon": 14.459567
+        }
+      },
+      {
+        "labelsReleased": [
+          [
+            "new_building",
+            "elevator",
+            "garage"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Novostavba",
+          "V\u00fdtah",
+          "Gar\u00e1\u017e"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "new_building",
+            "personal",
+            "elevator",
+            "garage",
+            "furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 4,
+          "category_type_cb": 2,
+          "locality": "praha-zizkov-jeseniova"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/1408684380",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/1408684380",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Jeseniova, Praha 3 - \u017di\u017ekov",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/apyBswi.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/apyBswi.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/1?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/1408684380"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/apyBswi.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/T1FBswj.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/K8ZBswk.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/apyBswi.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 1408684380,
+        "attractive_offer": 0,
+        "price": 11000,
+        "price_czk": {
+          "value_raw": 11000,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+kk 45\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.086311,
+          "lon": 14.45957
+        }
+      },
+      {
+        "labelsReleased": [
+          [
+            "new_building",
+            "brick",
+            "elevator"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Novostavba",
+          "Cihlov\u00e1",
+          "V\u00fdtah"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "new_building",
+            "personal",
+            "brick",
+            "elevator",
+            "furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 4,
+          "category_type_cb": 2,
+          "locality": "praha-zizkov-jeseniova"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/1390858588",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/1390858588",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Jeseniova, Praha 3 - \u017di\u017ekov",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/pM6CB3T.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/pM6CB3T.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/2?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/1390858588"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/pM6CB3T.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/P67CB3U.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/xDhCBpE.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/pM6CB3T.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 1390858588,
+        "attractive_offer": 0,
+        "price": 11000,
+        "price_czk": {
+          "value_raw": 11000,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+kk 49\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.086311,
+          "lon": 14.45957
+        }
+      },
+      {
+        "labelsReleased": [
+          [
+            "after_reconstruction",
+            "brick",
+            "cellar"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Po rekonstrukci",
+          "Cihlov\u00e1",
+          "Sklep"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "personal",
+            "after_reconstruction",
+            "brick",
+            "cellar",
+            "elevator",
+            "parking_lots",
+            "furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 4,
+          "category_type_cb": 2,
+          "locality": "praha-vinohrady-jana-masaryka"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/82235740",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/82235740",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Jana Masaryka, Praha 2 - Vinohrady",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/FbgCBWn.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/FbgCBWn.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/3?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/82235740"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/FbgCBWn.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/DUeCBlm.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/gpWCBWo.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/FbgCBWn.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 82235740,
+        "attractive_offer": 0,
+        "price": 12500,
+        "price_czk": {
+          "value_raw": 12500,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+kk 58\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.070457,
+          "lon": 14.436399
+        }
+      },
+      {
+        "labelsReleased": [
+          [
+            "panel",
+            "cellar"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Panelov\u00e1",
+          "Sklep"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "personal",
+            "panel",
+            "cellar",
+            "furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 5,
+          "category_type_cb": 2,
+          "locality": "praha-krc-kremlickova"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/2836844892",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/2836844892",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Kremli\u010dkova, Praha 4 - Kr\u010d",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/auCBq5r.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/auCBq5r.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/4?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/2836844892"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/auCBq5r.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/ejqBq5s.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/AYoBq5t.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_H_I/auCBq5r.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 2836844892,
+        "attractive_offer": 0,
+        "price": 10000,
+        "price_czk": {
+          "value_raw": 10000,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+1\u00a058\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.042484,
+          "lon": 14.444263
+        }
+      },
+      {
+        "labelsReleased": [
+          [
+            "collective",
+            "brick"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Dru\u017estevn\u00ed",
+          "Cihlov\u00e1"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "collective",
+            "brick",
+            "furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 4,
+          "category_type_cb": 2,
+          "locality": "praha-michle-michelska"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/3558265180",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/3558265180",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Michelsk\u00e1, Praha 4 - Michle",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/CMiCAMP.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/CMiCAMP.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/5?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/3558265180"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/CMiCAMP.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/7uHCAMQ.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/5dkCAZh.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/CMiCAMP.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 3558265180,
+        "attractive_offer": 0,
+        "price": 13000,
+        "price_czk": {
+          "value_raw": 13000,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+kk 48\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.04665,
+          "lon": 14.460258
+        }
+      },
+      {
+        "labelsReleased": [
+          [
+            "brick",
+            "partly_furnished"
+          ],
+          []
+        ],
+        "has_panorama": 0,
+        "labels": [
+          "Cihlov\u00e1",
+          "\u010c\u00e1ste\u010dn\u011b vybaven\u00fd"
+        ],
+        "is_auction": false,
+        "labelsAll": [
+          [
+            "personal",
+            "brick",
+            "partly_furnished"
+          ],
+          []
+        ],
+        "seo": {
+          "category_main_cb": 1,
+          "category_sub_cb": 4,
+          "category_type_cb": 2,
+          "locality": "praha-vokovice-na-dlouhem-lanu"
+        },
+        "category": 1,
+        "has_floor_plan": 0,
+        "_embedded": {
+          "favourite": {
+            "is_favourite": false,
+            "_links": {
+              "self": {
+                "profile": "/favourite/doc",
+                "href": "/cs/v2/favourite/2433143132",
+                "title": "Oblibene inzeraty"
+              }
+            }
+          },
+          "note": {
+            "note": "",
+            "_links": {
+              "self": {
+                "profile": "/note/doc",
+                "href": "/cs/v2/note/2433143132",
+                "title": "Poznamky inzeratu"
+              }
+            },
+            "has_note": false
+          }
+        },
+        "paid_logo": 0,
+        "locality": "Na Dlouh\u00e9m l\u00e1nu, Praha - Vokovice",
+        "has_video": false,
+        "_links": {
+          "dynamicDown": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/yg6B9Wg.jpeg?fl=res,{width},{height},3|shr,,20|jpg,90"
+            }
+          ],
+          "dynamicUp": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/yg6B9Wg.jpeg?fl=res,{width},{height},3|wrm,/watermark/sreality.png,10|shr,,20|jpg,90"
+            }
+          ],
+          "iterator": {
+            "href": "/cs/v2/estate-iterator/6?category_main_cb=1&distance=5&region_entity_id=122932&floor_number=0|100&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&category_type_cb=2&czk_price_summary_order2=10000|14000&region_entity_type=street&suggested_districtId=-1&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1"
+          },
+          "self": {
+            "href": "/cs/v2/estates/2433143132"
+          },
+          "images": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/yg6B9Wg.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/TBKB9KV.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            },
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_F_I/LDMB9KW.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ],
+          "image_middle2": [
+            {
+              "href": "https://d18-a.sdn.szn.cz/d_18/c_img_E_P/yg6B9Wg.jpeg?fl=res,400,300,3|shr,,20|jpg,90"
+            }
+          ]
+        },
+        "new": false,
+        "auctionPrice": 0.0,
+        "type": 2,
+        "hash_id": 2433143132,
+        "attractive_offer": 0,
+        "price": 12000,
+        "price_czk": {
+          "value_raw": 12000,
+          "unit": "za m\u011bs\u00edc",
+          "name": "Celkov\u00e1 cena"
+        },
+        "rus": false,
+        "name": "Pron\u00e1jem bytu 2+kk 50\u00a0m\u00b2",
+        "region_tip": 0,
+        "gps": {
+          "lat": 50.097065,
+          "lon": 14.366266
+        }
+      }
+    ],
+    "is_saved": {
+      "email_notification": false,
+      "stack_id": 0,
+      "push_notification": false,
+      "_links": {
+        "self": {
+          "href": "/cs/v2/stacks"
+        }
+      },
+      "removed": false,
+      "saved": false
+    },
+    "not_precise_location_count": {
+      "result_size_auction": 0,
+      "result_size": 1,
+      "_links": {
+        "self": {
+          "profile": "/estates/count/doc",
+          "href": "/cs/v2/estates/count?category_main_cb=1&distance=5&region_entity_id=122932&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&floor_number=0|100&category_type_cb=3&czk_price_summary_order2=10000|14000&region_entity_type=street&estate_age=2&locality_region_id=10&region=ulice \u017ditn\u00e1",
+          "title": "Estate count"
+        }
+      }
+    }
+  },
+  "filterLabels": [
+    "furnished",
+    "not_furnished"
+  ],
+  "title": "Byty 2+kk, 2+1 k pron\u00e1jmu Praha, ulice \u017ditn\u00e1 a okol\u00ed 5\u00a0km, Ano, \u010c\u00e1ste\u010dn\u011b, plocha od\u00a045\u00a0m\u00b2, den, od\u00a010\u00a0000\u00a0K\u010d do\u00a014\u00a0000\u00a0K\u010d",
+  "filter": {
+    "category_main_cb": "1",
+    "distance": "5",
+    "region_entity_id": 122932,
+    "furnished": "1|3",
+    "category_sub_cb": "4|5",
+    "usable_area": "45|10000000000",
+    "czk_price_summary_order2": "10000|14000",
+    "suggested_regionId": 10,
+    "floor_number": "0|100",
+    "region_entity_type": "street",
+    "suggested_districtId": -1,
+    "estate_age": "2",
+    "region": "ulice \u017ditn\u00e1",
+    "locality_region_id": "10",
+    "category_type_cb": "2"
+  },
+  "_links": {
+    "self": {
+      "href": "/cs/v2/estates?category_main_cb=1&distance=5&region_entity_id=122932&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&czk_price_summary_order2=10000|14000&page=1&floor_number=0|100&region_entity_type=street&estate_age=2&region=ulice \u017ditn\u00e1&locality_region_id=10&category_type_cb=2"
+    },
+    "clusters_with_bounding_box_of_first_10": {
+      "href": "/cs/v2/clusters?category_main_cb=1&distance=5&region_entity_id=122932&tms=1484694988959&furnished=1|3&locality_region_id=10&category_sub_cb=4|5&usable_area=45|10000000000&czk_price_summary_order2=10000|14000&category_type_cb=2&floor_number=0|100&region_entity_type=street&estate_age=2&per_page=20&leftBottomBounding=14.366266|50.042484&region=ulice \u017ditn\u00e1&rightTopBounding=14.460258|50.097065"
+    },
+    "rss": {
+      "href": "/api/cs/v2/estates/rss?category_main_cb=1&distance=5&region_entity_id=122932&czk_price_summary_order2=10000|14000&furnished=1|3&category_sub_cb=4|5&usable_area=45|10000000000&suggested_regionId=10&floor_number=0|100&region_entity_type=street&suggested_districtId=-1&estate_age=2&region=ulice \u017ditn\u00e1&locality_region_id=10&category_type_cb=2"
+    }
+  },
+  "locality": "okres Praha 3",
+  "locality_dativ": "na Praze 3",
+  "logged_in": false,
+  "per_page": 20,
+  "category_instrumental": "bytem",
+  "page": 1,
+  "filterLabels2": {
+    "something_more3_3310": "elevator",
+    "furnished_1": "furnished",
+    "furnished_2": "partly_furnished",
+    "furnished_3": "not_furnished",
+    "building_type_search_1": "panel",
+    "something_more1_3120": "cellar",
+    "building_condition_6": "new_building",
+    "something_more1_3100": "loggia",
+    "something_more1_3090": "balcony",
+    "something_more1_3110": "terrace",
+    "building_condition_4": "in_construction",
+    "something_more2_3150": "garage",
+    "something_more3_1820": "easy_access",
+    "building_type_search_3": "other_sigular",
+    "something_more2_3130": "basin",
+    "building_condition_9": "after_reconstruction",
+    "building_type_search_2": "brick",
+    "ownership_1": "personal",
+    "something_more2_3140": "parking_lots",
+    "ownership_3": "state",
+    "ownership_2": "collective"
+  }
+}
