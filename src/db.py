@@ -1,5 +1,7 @@
 from peewee import *
 from playhouse.sqlite_ext import SqliteExtDatabase
+from playhouse.migrate import *
+
 import datetime
 import json
 
@@ -21,6 +23,17 @@ class Flat(BaseModel):
     is_sent = BooleanField(default=False)
 
     @staticmethod
+    def allUnsent():
+        return Flat.select().where(Flat.is_sent == False)
+
+    def markSent(self):
+        self.is_sent=True
+        self.save()
+
+    def formatTextMessage(self):
+        return self.url
+
+    @staticmethod
     def update_or_create(data):
         try:
             Flat.get(Flat.hash == data['hash'])
@@ -37,7 +50,21 @@ class FlatImages(BaseModel):
 
 class Chat(BaseModel):
     id = IntegerField(primary_key=True)
+    stopped = BooleanField(default=False)
     data = TextField()
+
+    @staticmethod
+    def stop(chat):
+        try:
+            o = Chat.get(Chat.id == chat.id)
+            o.stopped=True
+            o.save()
+        except Chat.DoesNotExist:
+            pass
+
+    @staticmethod
+    def aliveChats():
+        return Chat.select().where(Chat.stopped == False)
 
     @staticmethod
     def register(chat):
@@ -54,3 +81,9 @@ def db_create_tables():
 
 def db_drop_tables():
     db.drop_tables(tables)
+
+# def migrations():
+#     migrator = SqliteMigrator(db)
+#     migrate(
+#         migrator.add_column('chat', Chat.stopped.name, Chat.stopped)
+#     )

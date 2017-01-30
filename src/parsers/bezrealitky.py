@@ -43,7 +43,7 @@ def convertData(shortData, fullData):
                     'lon': item['lng']
                 }
             },
-            'url': fullItem['url'],
+            'url': urlBase + fullItem['url'],
             'data': {
                 'short': shortData,
                 'full': fullItem,
@@ -51,6 +51,6 @@ def convertData(shortData, fullData):
         }
 
 def fetch():
-    shortData = [i for s in fetchRaw()['squares'] for i in s['records']][:10]
+    shortData = [i for s in fetchRaw()['squares'] for i in s['records']]
     fullData = fetchDetails([i['id'] for i in shortData])
     return convertData(shortData, fullData['records'])

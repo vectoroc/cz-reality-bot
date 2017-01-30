@@ -19,6 +19,10 @@ def handle_start_help(message):
     # json.dumps(message.chat)
     bot.send_message(message.chat.id, 'Hello. Send me url to sreality or bezrealitky.')
 
+# Обработчик команд '/stop'
+@bot.message_handler(commands=['stop'])
+def handle_stop(message):
+    Chat.stop(message.chat)
 
 @bot.message_handler(commands=['sub'])
 def handle_subscribe(message):
@@ -30,6 +34,11 @@ def handle_subscribe(message):
     for item in sreality_cz.fetch():
         bot.send_message(message.chat.id, item['text'] + "\n" + item['url'])
         # bot.send_message(message.chat.id, "\n".join(item['images']))
+
+
+def send_message_all(text):
+    for chat in Chat.aliveChats():
+        bot.send_message(chat.id, text)
 
 # @bot.message_handler(content_types=["text"])
 # def repeat_all_messages(message): # Название функции не играет никакой роли, в принципе
